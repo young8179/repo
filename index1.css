@@ -1,0 +1,56 @@
+.text-smaller {
+    font-size: 13px;
+}
+
+.image-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.larger-image {
+    width: 800px;
+}
+
+.gray-text {
+    color: gray;
+}
+
+.orange-text {
+    color: orange;
+    font-size: 15px;
+    font-family: Bradley Hand;
+}
+
+p {
+    color: black;
+}
+
+h1 {
+    font-size: 65px;
+    font-family: Krona One, Stencil Std;
+    color: gray;
+    text-align: center;
+    background-color: rgba(182, 238, 255, 0.952)
+}
+
+#explanation,
+#explanation ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#headofbody {
+    font-size: 20px;
+    font-family: Comic Sans MS;
+}
+
+footer {
+    text-align: center;
+}
