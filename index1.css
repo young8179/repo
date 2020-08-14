@@ -27,6 +27,13 @@
     font-family: Bradley Hand;
 }
 
+body {
+    margin: 0;
+    padding: 0;
+    
+
+}
+
 p {
     color: black;
 }
@@ -41,15 +48,16 @@ p {
 
 }
 
-.headingM {
-    list-style: none;
 
-}
 
 
 nav li {
     display: inline-block;
     font-family: "Lucida Console", Monaco, monospace;
+    list-style: none;
+}
+nav li a {
+    color: black;
 }
 h1 {
     font-size: 65px;
